@@ -3,7 +3,7 @@ Stealth Escape is a proto-type of the hyper-casual game Where the Player escapes
 <br>
 
 ![Reference](https://github.com/shaikmastan93/Stealth_Escape/assets/150914455/808f602c-9cfc-4b59-9bdd-d966421c110b)
-<br>
+
 
 
 
